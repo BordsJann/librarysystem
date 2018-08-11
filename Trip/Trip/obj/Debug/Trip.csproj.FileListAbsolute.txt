@@ -1,0 +1,10 @@
+c:\users\jann\source\repos\Trip\Trip\bin\Debug\Trip.exe.config
+c:\users\jann\source\repos\Trip\Trip\bin\Debug\Trip.exe
+c:\users\jann\source\repos\Trip\Trip\bin\Debug\Trip.pdb
+c:\users\jann\source\repos\Trip\Trip\obj\Debug\Interop.WMPLib.dll
+c:\users\jann\source\repos\Trip\Trip\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+c:\users\jann\source\repos\Trip\Trip\obj\Debug\Trip.csproj.ResolveComReference.cache
+c:\users\jann\source\repos\Trip\Trip\obj\Debug\Trip.csproj.CoreCompileInputs.cache
+c:\users\jann\source\repos\Trip\Trip\obj\Debug\Trip.exe
+c:\users\jann\source\repos\Trip\Trip\obj\Debug\Trip.pdb
+C:\Users\Jann\source\repos\Trip\Trip\obj\Debug\Trip.csprojResolveAssemblyReference.cache
